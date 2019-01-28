@@ -1,2 +1,2 @@
-# Two-Layer-Image-Recognition
-A simple Neural Network detect whether its a cat or not
+# Image-Recognition-NN
+A Neural Network detect for One Class classification
